@@ -8,6 +8,7 @@ You'll find list of publicly available [Lens](https://k8slens.dev) extensions in
 
 - [Mirantis Container Cloud](https://github.com/Mirantis/lens-extension-cc/) by [Mirantis](https://mirantis.com)
 - [Starboard](https://github.com/aquasecurity/starboard-lens-extension) by [Aqua Security](https://www.aquasec.com/)
+- [Clastix](https://github.com/clastix/capsule-lens-extension) by [Clastix](https://clastix.io/)
 
 ## Experimental & Fun & Demos
 
