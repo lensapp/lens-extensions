@@ -11,7 +11,7 @@ You'll find list of publicly available [Lens](https://k8slens.dev) extensions in
 - [Capsule](https://github.com/clastix/capsule-lens-extension) by [Clastix](https://clastix.io/)
 - [Carbonetes Container Security](https://github.com/carbonetes/carbonetes-lens-extension) by [Carbonetes](https://carbonetes.com/)
 
-## Informational
+## Community Extensions
 
 - [Certificate info](https://github.com/jkroepke/lens-extension-certificate-info) - Get information about certificates inside secret like expiry date inside lens.
 
