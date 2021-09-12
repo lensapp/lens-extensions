@@ -14,6 +14,7 @@ You'll find list of publicly available [Lens](https://k8slens.dev) extensions in
 ## Community Extensions
 
 - [Certificate info](https://github.com/jkroepke/lens-extension-certificate-info) - Get information about certificates inside secret like expiry date inside lens.
+- [App Viewer](https://github.com/kocyigitkim/lens-app-viewer) - An extension for access services on Lens Ide easily.
 
 ## Experimental & Fun & Demos
 
