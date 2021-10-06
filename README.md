@@ -10,6 +10,7 @@ You'll find list of publicly available [Lens](https://k8slens.dev) extensions in
 - [Starboard](https://github.com/aquasecurity/starboard-lens-extension) by [Aqua Security](https://www.aquasec.com/)
 - [Capsule](https://github.com/clastix/capsule-lens-extension) by [Clastix](https://clastix.io/)
 - [Carbonetes Container Security](https://github.com/carbonetes/carbonetes-lens-extension) by [Carbonetes](https://carbonetes.com/)
+- [Kubecost](https://github.com/kubecost/kubecost-lens-extension) by [Kubecost](https://kubecost.com)
 
 ## Community Extensions
 
