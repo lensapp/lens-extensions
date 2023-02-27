@@ -15,6 +15,7 @@ You'll find list of publicly available [Lens](https://k8slens.dev) extensions in
 
 ## Community Extensions
 
+- [Multi Pod Logs](https://github.com/andrea-falco/lens-multi-pod-logs) - Get logs from multiple pods and containers 
 - [Certificate info](https://github.com/jkroepke/lens-extension-certificate-info) - Get information about certificates inside secret like expiry date inside lens.
 - [App Viewer](https://github.com/kocyigitkim/lens-app-viewer) - An extension for access services on Lens Ide easily.
 - [NetworkPolicy viewer](https://github.com/artturik/lens-extension-network-policy-viewer) - View your NetworkPolicy manifests as visual graph.
