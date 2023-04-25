@@ -19,6 +19,7 @@ You'll find list of publicly available [Lens](https://k8slens.dev) extensions in
 - [App Viewer](https://github.com/kocyigitkim/lens-app-viewer) - An extension for access services on Lens Ide easily.
 - [NetworkPolicy viewer](https://github.com/artturik/lens-extension-network-policy-viewer) - View your NetworkPolicy manifests as visual graph.
 - [Version Update](https://github.com/ottimis/lens-version-update) - Easily update containers's (and initContainers) image tag.
+- [Node Pod Menu](https://github.com/alebcay/openlens-node-pod-menu) - This OpenLens extension adds back the node and pod menu (Logs, Shell, Attach) functionality that was removed from OpenLens itself in 6.3.0.
 
 ## Experimental & Fun & Demos
 
