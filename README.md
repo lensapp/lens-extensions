@@ -12,6 +12,7 @@ You'll find list of publicly available [Lens](https://k8slens.dev) extensions in
 - [Carbonetes Container Security](https://github.com/carbonetes/carbonetes-lens-extension) by [Carbonetes](https://carbonetes.com/)
 - [Kubecost](https://github.com/kubecost/kubecost-lens-extension) by [Kubecost](https://kubecost.com)
 - [Kubescape](https://github.com/kubescape/lens-extension) by [Armo](https://www.armosec.io/)
+- [Kubeshark](https://github.com/kubeshark/lens) by [Kubeshark](https://kubeshark.co/)
 
 ## Community Extensions
 
