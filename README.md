@@ -16,12 +16,13 @@ You'll find list of publicly available [Lens](https://k8slens.dev) extensions in
 
 ## Community Extensions
 
-- [Multi Pod Logs](https://github.com/andrea-falco/lens-multi-pod-logs) - Get logs from multiple pods and containers 
+- [Multi Pod Logs](https://github.com/andrea-falco/lens-multi-pod-logs) - Get logs from multiple pods and containers.
 - [Certificate info](https://github.com/jkroepke/lens-extension-certificate-info) - Get information about certificates inside secret like expiry date inside lens.
 - [App Viewer](https://github.com/kocyigitkim/lens-app-viewer) - An extension for access services on Lens Ide easily.
 - [NetworkPolicy viewer](https://github.com/artturik/lens-extension-network-policy-viewer) - View your NetworkPolicy manifests as visual graph.
 - [Version Update](https://github.com/ottimis/lens-version-update) - Easily update containers's (and initContainers) image tag.
 - [Node Pod Menu](https://github.com/alebcay/openlens-node-pod-menu) - This OpenLens extension adds back the node and pod menu (Logs, Shell, Attach) functionality that was removed from OpenLens itself in 6.3.0.
+- [Bunyan Log Viewer](https://github.com/jdinsel-xealth/bunyan-lens-ext) - View bunyan logs in Lens.
 
 ## Experimental & Fun & Demos
 
@@ -29,6 +30,5 @@ You'll find list of publicly available [Lens](https://k8slens.dev) extensions in
 - [GKE Sync](https://github.com/jakolehm/lens-extension-gke-sync) - Sync GKE projects & clusters automatically
 - [Space Invaders](https://github.com/chenhunghan/lens-ext-invaders) - Gamified chaos engineering for Lens
 - [debug pods](https://github.com/pashevskii/debug-pods-lens-extension) - Allow to run debug pod easily from menu
-
 
 If you'd like to add your extension on the list above, please make a pull request!
