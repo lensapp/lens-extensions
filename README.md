@@ -20,6 +20,7 @@ You'll find list of publicly available [Lens](https://k8slens.dev) extensions in
 - [NetworkPolicy viewer](https://github.com/artturik/lens-extension-network-policy-viewer) - View your NetworkPolicy manifests as visual graph.
 - [Node Pod Menu](https://github.com/alebcay/openlens-node-pod-menu) - This OpenLens extension adds back the node and pod menu (Logs, Shell, Attach) functionality that was removed from OpenLens itself in 6.3.0.
 - [Bunyan Log Viewer](https://github.com/jdinsel-xealth/bunyan-lens-ext) - View bunyan logs in Lens.
+- [Contour HTTPProxy info](https://github.com/nefelim4ag/lens-extension-httpproxy-info) - Get information inside HTTPProxy similar to Ingress.
 
 ## Experimental & Fun & Demos
 
